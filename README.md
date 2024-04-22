@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... developing for the web
 - 🌱 I’m currently learning ... Responsive Web Design
 - 💞️ I’m looking to collaborate on ... Open-Source Projects
-- 📫 How to reach me ...sky.dotel@gmail.com
+- 📫 How to reach me ... sky.dotel@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I was born in the Dominican Republic
 
